@@ -1,0 +1,6 @@
+| Use case  | Example                                |
+| --------- | -------------------------------------- |
+| Sorting   | `sorted(list, key=lambda x: x['age'])` |
+| Mapping   | `map(lambda x: x + 1, lst)`            |
+| Filtering | `filter(lambda x: x > 0, lst)`         |
+| Reducing  | `reduce(lambda x, y: x + y, lst)`      |
